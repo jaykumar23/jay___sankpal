@@ -1,5 +1,5 @@
 import Image from "next/image";
-import test from "../../public/test5.jpg";
+import avatar from "../../public/avatar.jpg";
 import Actions from "@/components/Actions";
 
 export default function Home() {
@@ -28,7 +28,7 @@ export default function Home() {
             style={{ border: "6px solid rgba(147, 51, 234, 0.4)" }}
           >
             <Image
-              src={test}
+              src={avatar}
               alt="Profile Image"
               fill
               className="object-cover rounded-full"
