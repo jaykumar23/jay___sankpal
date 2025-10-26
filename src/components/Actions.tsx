@@ -12,7 +12,7 @@ const Actions = () => {
         Get In Touch
       </Link>
       <a
-        href="https://drive.google.com/file/d/1ot5pa0RNTJOFV-gKHS9JXYMwiRa9REKJ/view?usp=drivesdk"
+        href="https://drive.google.com/file/d/18c25IWGeJyVVCZYqJmrjlO7_xhHQn1v6/view?usp=drivesdk"
         target="_blank"
         rel="noopener noreferrer"
         className="px-6 py-2 bg-transparent border border-gray-600 text-gray-800 rounded-lg hover:bg-gray-800 hover:text-white flex items-center gap-2 font-bold transition duration-300"
