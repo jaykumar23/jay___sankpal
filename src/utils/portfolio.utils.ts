@@ -34,10 +34,28 @@ export const useProtfolioUtils = () => {
     },
     {
       id: 6,
-      name: "emi-calculator",
-      codeLink: "https://codesandbox.io/p/sandbox/emi-calculator-qx9qxv",
-      liveLink: "https://codesandbox.io/p/sandbox/emi-calculator-qx9qxv",
+      name: "nested checkboxes",
+      codeLink: "https://codesandbox.io/p/sandbox/6-nested-checkboxes-d4ykf9",
+      liveLink: "https://codesandbox.io/p/sandbox/6-nested-checkboxes-d4ykf9",
     },
+    {
+      id: 7,
+      name: "file explorer",
+      codeLink: "https://codesandbox.io/p/sandbox/3-file-explorer-rpsqk5",
+      liveLink: "https://codesandbox.io/p/sandbox/3-file-explorer-rpsqk5",
+    },
+    {
+      id: 8,
+      name: "pagination",
+      codeLink: "https://codesandbox.io/p/sandbox/1-pagination-7yn6tn",
+      liveLink: "https://codesandbox.io/p/sandbox/1-pagination-7yn6tn",
+    },
+    {
+      id: 9,
+      name: "auto-complete search",
+      codeLink: "https://codesandbox.io/p/sandbox/2-autocomplete-search-5tgd6l",
+      liveLink: "https://codesandbox.io/p/sandbox/2-autocomplete-search-5tgd6l",
+    }
   ];
 
   const contactItems = [
