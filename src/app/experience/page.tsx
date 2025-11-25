@@ -20,7 +20,7 @@ const ExperiencePage = () => {
         </div>
         <div className="w-full md:w-[70%] p-2 rounded-lg">
           <h3 className="text-2xl font-bold">
-            Front-end Developer{" "}
+            Software Developer{" "}
             <span className="text-purple-600">@ Jio Platforms Limited </span>
           </h3>
           <p className="text-gray-600">Augest 2023 - Present</p>
