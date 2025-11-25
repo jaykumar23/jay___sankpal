@@ -12,7 +12,7 @@ const AboutPage = () => {
           beautiful and functional user interfaces. I am a self-taught developer
           and I love to learn new things. I am a quick learner and I am always
           ready to take up new challenges. I have experience in working with
-          HTML-5, CSS-3, VanillaJS, ReactJS, NextJS, TypeScript, Tailwind CSS
+          HTML-5, CSS-3, VanillaJS, ReactJS, NextJS, TypeScript, Tailwind CSS, Node Js, MongoDB
           and exploring new efficient technologies.
         </p>
       </section>
